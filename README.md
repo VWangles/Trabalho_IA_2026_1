@@ -5,3 +5,6 @@ Trabalho da disciplina de Inteligência Artificial
 
 ## Como reproduzir
 Execute o notebook acima no google colab
+
+## Link do vídeo
+https://www.youtube.com/watch?v=9gvC1vZ8T6w
