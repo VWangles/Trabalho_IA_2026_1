@@ -2,7 +2,7 @@
 Trabalho da disciplina de Inteligência Artificial
 
 # Membros da equipe
-Victor Wangles Fernandes Bezerra	582233
+Victor Wangles Fernandes Bezerra	582233 <br>
 Priscila Maria Campos de Oliveira	581336
 Arthur Thome Costa	565756
 Caio Emanuel Barbosa Silva	577886
