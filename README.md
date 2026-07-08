@@ -3,9 +3,9 @@ Trabalho da disciplina de Inteligência Artificial
 
 # Membros da equipe
 Victor Wangles Fernandes Bezerra	582233 <br>
-Priscila Maria Campos de Oliveira	581336
-Arthur Thome Costa	565756
-Caio Emanuel Barbosa Silva	577886
+Priscila Maria Campos de Oliveira	581336 <br>
+Arthur Thome Costa	565756 <br>
+Caio Emanuel Barbosa Silva	577886 <br>
 
 - `notebook/Trabalho_IA.ipynb`
 
